@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w22/jpa02-agweiyu
 
-On Heroku: https://jpa02-agweiyu.herokuapp.com/
+On Heroku: https://jpa02-adamgyu.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-agweiyu
 
